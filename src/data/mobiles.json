@@ -1,0 +1,763 @@
+[
+  {
+    "id": "infinix-gt-30",
+    "brand": "Infinix",
+    "name": "Infinix GT 30",
+    "slug": "infinix-gt-30",
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80",
+    "badge": "Flagship Killer",
+    "releaseDate": "March 2025 (Official / Global)",
+    "isPopular": true,
+    "isFeatured": true,
+    "price": {
+      "saudi": "SAR 1,099",
+      "bangladesh": "৳ 29,999",
+      "globalUSD": "$280"
+    },
+    "quickSpecs": {
+      "display": "6.78\" 144Hz AMOLED",
+      "processor": "Dimensity 8200 Ultimate (4nm)",
+      "ram": "12GB LPDDR5X",
+      "storage": "256GB UFS 3.1",
+      "battery": "5000 mAh",
+      "charging": "45W Fast PD3.0",
+      "camera": "108MP OIS Triple Cam",
+      "os": "Android 15, XOS 15 GT"
+    },
+    "display": {
+      "type": "AMOLED, 1B Colors, HDR10+, 2160Hz PWM Dimming",
+      "size": "6.78 inches (~89.4% screen-to-body ratio)",
+      "resolution": "1080 x 2436 pixels (~393 ppi)",
+      "refreshRate": "144Hz Adaptive",
+      "brightness": "1300 nits (Peak HDR), 900 nits (HBM)",
+      "protection": "Corning Gorilla Glass 5"
+    },
+    "performance": {
+      "chipset": "MediaTek Dimensity 8200 Ultimate (4 nm)",
+      "cpu": "Octa-core (1x3.1 GHz Cortex-A78 & 3x3.0 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+      "gpu": "Mali-G610 MC6 Gaming Engine"
+    },
+    "memory": {
+      "ram": "8GB / 12GB LPDDR5X (+up to 12GB Virtual RAM)",
+      "storage": "256GB UFS 3.1 High-Speed Storage",
+      "cardSupport": "microSDXC (dedicated slot)"
+    },
+    "camera": {
+      "rear": "108 MP, f/1.75 (wide), 1/1.67\", 0.64µm, PDAF, OIS + 2 MP (macro) + 2 MP (depth)",
+      "front": "32 MP, f/2.45 (wide), Dual-LED flash, 2K video",
+      "features": "Quad-LED Flash, Super Night Mode, Cyber Mecha Light Ring, Portrait Video, Sky Shop",
+      "video": "4K@30/60fps, 1080p@30/60/120fps with Gyro-EIS"
+    },
+    "battery": {
+      "capacity": "5000 mAh High-Density Li-Po",
+      "charging": "45W wired, PD3.0, 100% in 52 min",
+      "wirelessCharging": "Not supported",
+      "reverseCharging": "10W wired reverse charging support"
+    },
+    "network": {
+      "technology": "GSM / HSPA / LTE / 5G SA/NSA Dual Active",
+      "fiveG": true,
+      "sim": "Dual Nano-SIM (both 5G standby)",
+      "wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+      "bluetooth": "5.4, A2DP, LE, aptX HD",
+      "nfc": "Yes (360° Multifunctional)",
+      "gps": "GPS (L1), GLONASS, GALILEO, BDS"
+    },
+    "body": {
+      "dimensions": "164.0 x 75.4 x 8.15 mm",
+      "weight": "194 grams",
+      "build": "Glass front (Gorilla Glass 5), Cyber Mecha aerodynamic rear shell with interactive Mini-LEDs",
+      "colors": "Mecha Silver, Cyber Blue, Shadow Dark"
+    },
+    "sound": {
+      "speaker": "Dual Stereo Speakers with Hi-Res Audio certification",
+      "headphoneJack": "Yes (3.5mm jack built-in)",
+      "audioFeatures": "Tuned by JBL Audio, DTS Sound enhancement, 24-bit/192kHz"
+    },
+    "connectivity": {
+      "usb": "USB Type-C 2.0, OTG, Display Out capable",
+      "wifi": "Wi-Fi 6 (802.11ax)",
+      "bluetooth": "5.4 with low-latency gaming mode",
+      "nfc": "Yes"
+    },
+    "security": {
+      "fingerprint": "Optical Under-display Fingerprint Sensor",
+      "faceUnlock": "AI Face Unlock with low-light compensation"
+    },
+    "software": {
+      "os": "Android 15",
+      "ui": "XOS 15 GT Edition (Clean bloatware policy with minimal pre-installed apps)"
+    },
+    "gaming": {
+      "pubgFps": "Steady 90 FPS (Smooth + Extreme+ mode)",
+      "freeFireFps": "120 FPS ultra-smooth refresh rate",
+      "genshinImpact": "52-56 FPS average on Medium graphics",
+      "heating": "Peak 41.2°C after 60 min continuous gaming stress test",
+      "stability": "94.8% CPU throttle stability rating",
+      "bypassCharging": "Supported (powers motherboard directly without heating battery)"
+    },
+    "benchmarks": {
+      "antutu": "912,450 (AnTuTu v10)",
+      "geekbenchSingle": "1,248 (Geekbench 6)",
+      "geekbenchMulti": "3,892 (Geekbench 6)"
+    },
+    "youtubeVideoId": "8iU8LPEa4o0",
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=1200&q=80",
+        "caption": "Infinix GT 30 Mecha Cyber Design Rear with Mini-LED",
+        "category": "back"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80",
+        "caption": "144Hz AMOLED Display with ultra-slim bezels",
+        "category": "display"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1580910051074-3eb694886505?auto=format&fit=crop&w=1200&q=80",
+        "caption": "108MP OIS Triple Camera module close-up",
+        "category": "camera"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?auto=format&fit=crop&w=1200&q=80",
+        "caption": "Front view showing center punch-hole camera",
+        "category": "front"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?auto=format&fit=crop&w=1200&q=80",
+        "caption": "Retail box contents: 45W charger, braided cable & protective case",
+        "category": "box"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?auto=format&fit=crop&w=1200&q=80",
+        "caption": "In-hand feel and outdoor sunlight legibility",
+        "category": "real-life"
+      }
+    ],
+    "pros": [
+      "Smooth 144Hz AMOLED display with exceptional 2160Hz PWM eye protection",
+      "MediaTek Dimensity 8200 Ultimate delivers rock-solid 90 FPS PUBG gaming",
+      "Bypass charging allows extended gaming while plugged in without battery heating",
+      "Unique Mecha cyber design with customizable mini-LED notification matrix",
+      "Retains the beloved 3.5mm headphone jack and dedicated microSD slot",
+      "Stereo sound tuned by JBL delivers crisp positional gaming audio"
+    ],
+    "cons": [
+      "No dedicated ultra-wide lens (uses secondary macro/depth sensors)",
+      "Polycarbonate frame instead of aluminum alloy",
+      "45W charging is dependable but slower than 67W-120W rivals"
+    ],
+    "review": {
+      "verdict": "The Infinix GT 30 cements itself as one of the smartest purchases for budget gaming enthusiasts in Bangladesh and Saudi Arabia. It marries high-frame-rate gaming and eye-catching mecha aesthetics with everyday usability.",
+      "design": "Munshi's Hands-On: The Mecha aesthetic feels distinct and well-built. The rear light loop isn't just a gimmick—it syncs smoothly with incoming calls, charging state, and game effects without draining significant battery.",
+      "display": "With 144Hz refresh rate and 1300 nits peak brightness, outdoor readability under intense sun in Riyadh or Dhaka is surprisingly good. 2160Hz PWM dimming also prevents eye strain during midnight sessions.",
+      "performance": "Dimensity 8200 Ultimate on a 4nm process handles multi-tasking without any hiccup. Switching between 15 apps with 12GB LPDDR5X RAM felt instantaneous.",
+      "gaming": "During our 2-hour studio torture test: PUBG stayed locked at 90 FPS on Smooth graphics. Free Fire gave a fluid 120 FPS experience. The vapor chamber kept thermal throttling below 6%.",
+      "camera": "The 108MP sensor with optical image stabilization (OIS) produces sharp, vivid daylight shots with good dynamic range. Video at 4K 60fps is stable thanks to gyro-EIS.",
+      "battery": "5000 mAh yielded 7 hours and 40 minutes of screen-on time in mixed usage. The bundled 45W adapter fills from 10% to 100% in 48 minutes.",
+      "software": "XOS 15 GT Edition is noticeably cleaner than previous iterations. Bloatware can be disabled easily, and gaming mode features like voice changer and crosshair overlays work smoothly.",
+      "overall": "If gaming performance, high refresh rate, and aggressive tech styling are your priorities under $300 (SAR 1,100 / ৳30,000), the Infinix GT 30 is tough to beat."
+    },
+    "faqs": [
+      {
+        "question": "What is the official price of Infinix GT 30 in Saudi Arabia and Bangladesh?",
+        "answer": "In Saudi Arabia, the official price starts at SAR 1,099 for the 12GB+256GB variant. In Bangladesh, the official market price is approximately ৳29,999. Prices may vary depending on retailer promotions and storage configs."
+      },
+      {
+        "question": "Does the Infinix GT 30 support 5G connectivity?",
+        "answer": "Yes, it supports Dual 5G SIM with both SA and NSA bands, fully compatible with STC, Mobily, Zain in Saudi Arabia and Grameenphone, Robi, Banglalink, Teletalk in Bangladesh."
+      },
+      {
+        "question": "Is the Infinix GT 30 good for competitive gaming (PUBG, Free Fire)?",
+        "answer": "Yes, our studio tests confirm solid 90 FPS support in PUBG Mobile and up to 120 FPS in Free Fire, backed by bypass charging and vapor chamber liquid cooling."
+      },
+      {
+        "question": "Does it have a 3.5mm audio jack for wired earphones?",
+        "answer": "Yes! Infinix retained the physical 3.5mm headphone jack, eliminating audio latency during competitive gaming tournaments."
+      }
+    ],
+    "relatedPhoneSlugs": ["redmi-note-13-pro-plus", "realme-gt-6t", "samsung-galaxy-a55", "poco-x6-pro"]
+  },
+  {
+    "id": "samsung-galaxy-a55",
+    "brand": "Samsung",
+    "name": "Samsung Galaxy A55 5G",
+    "slug": "samsung-galaxy-a55",
+    "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=800&q=80",
+    "badge": "Premium Midranger",
+    "releaseDate": "March 2024 (Global)",
+    "isPopular": true,
+    "isFeatured": false,
+    "price": {
+      "saudi": "SAR 1,399",
+      "bangladesh": "৳ 46,999",
+      "globalUSD": "$370"
+    },
+    "quickSpecs": {
+      "display": "6.6\" Super AMOLED, 120Hz",
+      "processor": "Exynos 1480 (4nm, AMD GPU)",
+      "ram": "8GB / 12GB",
+      "storage": "128GB / 256GB",
+      "battery": "5000 mAh",
+      "charging": "25W Fast Charging",
+      "camera": "50MP OIS + 12MP Ultra-wide",
+      "os": "Android 15, One UI 7 (4 OS updates)"
+    },
+    "display": {
+      "type": "Super AMOLED, HDR10+, Vision Booster",
+      "size": "6.6 inches (~85.8% screen-to-body ratio)",
+      "resolution": "1080 x 2340 pixels (~390 ppi)",
+      "refreshRate": "120Hz",
+      "brightness": "1000 nits (HBM)",
+      "protection": "Corning Gorilla Glass Victus+"
+    },
+    "performance": {
+      "chipset": "Exynos 1480 (4 nm)",
+      "cpu": "Octa-core (4x2.75 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+      "gpu": "Xclipse 530 (AMD RDNA2 architecture)"
+    },
+    "memory": {
+      "ram": "8GB / 12GB LPDDR5",
+      "storage": "128GB / 256GB",
+      "cardSupport": "microSDXC (uses shared SIM slot)"
+    },
+    "camera": {
+      "rear": "50 MP, f/1.8 (wide), 1/1.56\", PDAF, OIS + 12 MP (ultrawide, 123°) + 5 MP (macro)",
+      "front": "32 MP, f/2.2 (wide), 4K video recording",
+      "features": "LED flash, Nightography, Super HDR video",
+      "video": "4K@30fps, 1080p@30/60fps, gyro-EIS"
+    },
+    "battery": {
+      "capacity": "5000 mAh",
+      "charging": "25W wired",
+      "wirelessCharging": "No",
+      "reverseCharging": "No"
+    },
+    "network": {
+      "technology": "GSM / HSPA / LTE / 5G",
+      "fiveG": true,
+      "sim": "Single SIM / Dual SIM (Nano-SIM, dual stand-by) + eSIM",
+      "wifi": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax)",
+      "bluetooth": "5.3, A2DP, LE",
+      "nfc": "Yes",
+      "gps": "GPS, GALILEO, GLONASS, BDS, QZSS"
+    },
+    "body": {
+      "dimensions": "161.1 x 77.4 x 8.2 mm",
+      "weight": "213 grams",
+      "build": "Glass front (Gorilla Glass Victus+), glass back (Victus+), aluminum metal frame, IP67 dust/water resistant",
+      "colors": "Awesome Iceblue, Awesome Lilac, Awesome Lemon, Awesome Navy"
+    },
+    "sound": {
+      "speaker": "Stereo speakers with Dolby Atmos",
+      "headphoneJack": "No",
+      "audioFeatures": "Voice Focus, Dolby Atmos"
+    },
+    "connectivity": {
+      "usb": "USB Type-C 2.0, OTG",
+      "wifi": "Wi-Fi 6",
+      "bluetooth": "5.3",
+      "nfc": "Yes"
+    },
+    "security": {
+      "fingerprint": "Under display (optical)",
+      "faceUnlock": "Face Recognition"
+    },
+    "software": {
+      "os": "Android 14 (Upgradable to Android 15 / One UI 7)",
+      "ui": "One UI with 4 years of OS upgrades and 5 years of security patches"
+    },
+    "gaming": {
+      "pubgFps": "60 FPS (Smooth + Extreme)",
+      "freeFireFps": "60-90 FPS",
+      "genshinImpact": "40-45 FPS (Medium)",
+      "heating": "39.5°C during gaming (Excellent thermal dissipation)",
+      "stability": "96.1% CPU stability",
+      "bypassCharging": "Not supported"
+    },
+    "benchmarks": {
+      "antutu": "735,000",
+      "geekbenchSingle": "1,160",
+      "geekbenchMulti": "3,530"
+    },
+    "youtubeVideoId": "YhR_hXwX9uU",
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=1200&q=80",
+        "caption": "Samsung Galaxy A55 metal frame & clean triple camera",
+        "category": "back"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?auto=format&fit=crop&w=1200&q=80",
+        "caption": "Super AMOLED vivid display with Key Island design",
+        "category": "display"
+      }
+    ],
+    "pros": [
+      "Premium glass and aluminum build with IP67 water/dust resistance",
+      "Superb 4 years of major Android updates & 5 years security patches",
+      "Reliable 50MP OIS main camera and punchy 12MP ultra-wide sensor",
+      "Vibrant Super AMOLED panel with Corning Gorilla Glass Victus+",
+      "Samsung Knox security and secure folder ecosystem"
+    ],
+    "cons": [
+      "Relatively slow 25W charging with no charger in the box",
+      "Exynos 1480 is less geared for hardcore 90 FPS competitive gaming than GT 30",
+      "No 3.5mm headphone jack"
+    ],
+    "review": {
+      "verdict": "The Galaxy A55 is the king of reliability and build quality in the upper mid-range. While not an aggressive gaming phone, its software support and camera consistency are top class.",
+      "design": "Munshi's take: The flat aluminum frame with Key Island feels genuinely flagship.",
+      "display": "Colors are typical Samsung: rich, contrasty, and comfortable under direct sunlight.",
+      "performance": "Smooth for daily tasks, social media, and multitasking.",
+      "gaming": "Solid 60 FPS in PUBG; Exynos GPU handles casual games easily without heat spikes.",
+      "camera": "One of the most natural skin tones and reliable video stabilization in its bracket.",
+      "battery": "Easily delivers 1.5 days on normal usage.",
+      "software": "One UI is polished, bug-free, and offers unmatched update longevity.",
+      "overall": "Recommended for buyers who want longevity, brand trust, and premium build over raw gaming specs."
+    },
+    "faqs": [
+      {
+        "question": "Is Samsung Galaxy A55 waterproof?",
+        "answer": "Yes, it has an IP67 rating, meaning it can withstand immersion in up to 1 meter of fresh water for up to 30 minutes."
+      },
+      {
+        "question": "Does it come with a charger in the box?",
+        "answer": "No, Samsung does not include a charger in the retail box; you must purchase a 25W adapter separately."
+      }
+    ],
+    "relatedPhoneSlugs": ["infinix-gt-30", "redmi-note-13-pro-plus", "realme-gt-6t"]
+  },
+  {
+    "id": "redmi-note-13-pro-plus",
+    "brand": "Xiaomi",
+    "name": "Redmi Note 13 Pro+ 5G",
+    "slug": "redmi-note-13-pro-plus",
+    "image": "https://images.unsplash.com/photo-1567581935884-3349723552ca?auto=format&fit=crop&w=800&q=80",
+    "badge": "200MP Curved AMOLED",
+    "releaseDate": "January 2024 (Global)",
+    "isPopular": true,
+    "isFeatured": false,
+    "price": {
+      "saudi": "SAR 1,299",
+      "bangladesh": "৳ 42,999",
+      "globalUSD": "$345"
+    },
+    "quickSpecs": {
+      "display": "6.67\" 1.5K 120Hz Curved AMOLED",
+      "processor": "Dimensity 7200 Ultra (4nm)",
+      "ram": "8GB / 12GB",
+      "storage": "256GB / 512GB",
+      "battery": "5000 mAh",
+      "charging": "120W HyperCharge (100% in 19m)",
+      "camera": "200MP OIS + 8MP Ultra-wide",
+      "os": "Android 14 / Xiaomi HyperOS"
+    },
+    "display": {
+      "type": "Curved CrystalRes AMOLED, 68B colors, 120Hz, Dolby Vision, HDR10+",
+      "size": "6.67 inches (~89.7% screen-to-body ratio)",
+      "resolution": "1220 x 2712 pixels (~446 ppi 1.5K)",
+      "refreshRate": "120Hz",
+      "brightness": "1800 nits (peak)",
+      "protection": "Corning Gorilla Glass Victus"
+    },
+    "performance": {
+      "chipset": "MediaTek Dimensity 7200 Ultra (4 nm)",
+      "cpu": "Octa-core (2x2.8 GHz Cortex-A715 & 6x2.0 GHz Cortex-A510)",
+      "gpu": "Mali-G610 MC4"
+    },
+    "memory": {
+      "ram": "8GB / 12GB LPDDR5",
+      "storage": "256GB / 512GB UFS 3.1",
+      "cardSupport": "No card slot"
+    },
+    "camera": {
+      "rear": "200 MP, f/1.7 (wide), 1/1.4\", 0.56µm, multi-directional PDAF, OIS + 8 MP (ultrawide) + 2 MP (macro)",
+      "front": "16 MP, f/2.4 (wide)",
+      "features": "4x lossless in-sensor zoom, Dual-LED flash, HDR, Panorama",
+      "video": "4K@24/30fps, 1080p@30/60/120fps, gyro-EIS"
+    },
+    "battery": {
+      "capacity": "5000 mAh",
+      "charging": "120W wired, PD3.0, 100% in 19 min (advertised)",
+      "wirelessCharging": "No",
+      "reverseCharging": "No"
+    },
+    "network": {
+      "technology": "GSM / HSPA / LTE / 5G",
+      "fiveG": true,
+      "sim": "Dual SIM (Nano-SIM, dual stand-by) or eSIM",
+      "wifi": "Wi-Fi 6 dual-band",
+      "bluetooth": "5.3, A2DP, LE",
+      "nfc": "Yes",
+      "gps": "GPS, GLONASS, BDS, GALILEO, QZSS"
+    },
+    "body": {
+      "dimensions": "161.4 x 74.2 x 8.9 mm",
+      "weight": "204.5 grams",
+      "build": "Glass front (Gorilla Glass Victus), glass or vegan leather back, IP68 water/dust resistant",
+      "colors": "Midnight Black, Moonlight White, Aurora Purple"
+    },
+    "sound": {
+      "speaker": "Dual stereo speakers with Dolby Atmos",
+      "headphoneJack": "No",
+      "audioFeatures": "Hi-Res Audio & Hi-Res Wireless Audio"
+    },
+    "connectivity": {
+      "usb": "USB Type-C 2.0, OTG",
+      "wifi": "Wi-Fi 6",
+      "bluetooth": "5.3",
+      "nfc": "Yes"
+    },
+    "security": {
+      "fingerprint": "Optical Under-display with Heart Rate detection",
+      "faceUnlock": "AI Face Unlock"
+    },
+    "software": {
+      "os": "Android 14 (Upgradable to Android 15)",
+      "ui": "Xiaomi HyperOS"
+    },
+    "gaming": {
+      "pubgFps": "60 FPS (Smooth + Extreme)",
+      "freeFireFps": "90 FPS",
+      "genshinImpact": "45 FPS (Medium settings)",
+      "heating": "41.0°C under heavy loads",
+      "stability": "92.4%",
+      "bypassCharging": "No"
+    },
+    "benchmarks": {
+      "antutu": "775,000",
+      "geekbenchSingle": "1,120",
+      "geekbenchMulti": "2,680"
+    },
+    "youtubeVideoId": "tP736k3z-G8",
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1567581935884-3349723552ca?auto=format&fit=crop&w=1200&q=80",
+        "caption": "Redmi Note 13 Pro+ elegant curved display & glass back",
+        "category": "display"
+      }
+    ],
+    "pros": [
+      "Incredible 120W charging—0 to 100% in under 20 minutes",
+      "Gorgeous 1.5K Curved AMOLED display with 1800 nits brightness",
+      "IP68 dust and water resistance usually reserved for expensive flagships",
+      "200MP camera with 4x lossless in-sensor zoom captures immense detail"
+    ],
+    "cons": [
+      "No microSD expansion slot and no headphone jack",
+      "Dimensity 7200 Ultra is capped at 60 FPS in PUBG Mobile",
+      "Curved edges can cause occasional accidental palm touches"
+    ],
+    "review": {
+      "verdict": "Xiaomi packed flagship luxuries like IP68, 120W charging, and a 200MP camera into a sub-$350 phone. It is a media-consumption beast.",
+      "design": "Munshi's take: The curved glass back and IP68 seal make this phone feel double its price tag.",
+      "display": "The 1.5K resolution provides razor-sharp text and HDR movies look exceptional.",
+      "performance": "HyperOS is responsive; daily apps load without lag.",
+      "gaming": "Good for casual gaming, but hardcore esports players will prefer the GT 30's 90 FPS support.",
+      "camera": "The 200MP mode allows you to crop into distant signboards with surprising clarity.",
+      "battery": "The 120W charger in the box changes your daily charging habits entirely.",
+      "software": "HyperOS has less bloat than MIUI, though system notifications require a quick initial tune.",
+      "overall": "The best multimedia and camera phone in this price category."
+    },
+    "faqs": [
+      {
+        "question": "How fast does the 120W charger actually charge?",
+        "answer": "In our laboratory testing, it charges from 1% to 100% in approximately 21 minutes at room temperature."
+      },
+      {
+        "question": "Is the Redmi Note 13 Pro+ IP68 water resistant?",
+        "answer": "Yes, it boasts an official IP68 rating, capable of surviving accidental drops in water up to 1.5m for 30 minutes."
+      }
+    ],
+    "relatedPhoneSlugs": ["infinix-gt-30", "samsung-galaxy-a55", "realme-gt-6t"]
+  },
+  {
+    "id": "realme-gt-6t",
+    "brand": "Realme",
+    "name": "Realme GT 6T 5G",
+    "slug": "realme-gt-6t",
+    "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=800&q=80",
+    "badge": "Snapdragon 7+ Gen 3",
+    "releaseDate": "May 2024",
+    "isPopular": true,
+    "isFeatured": false,
+    "price": {
+      "saudi": "SAR 1,349",
+      "bangladesh": "৳ 39,999",
+      "globalUSD": "$360"
+    },
+    "quickSpecs": {
+      "display": "6.78\" 120Hz 8T LTPO AMOLED (6000 nits)",
+      "processor": "Snapdragon 7+ Gen 3 (4nm)",
+      "ram": "8GB / 12GB",
+      "storage": "256GB / 512GB",
+      "battery": "5500 mAh",
+      "charging": "120W SUPERVOOC",
+      "camera": "50MP Sony LYT-600 OIS",
+      "os": "Android 14 / Realme UI 5.0"
+    },
+    "display": {
+      "type": "8T LTPO AMOLED, 1B colors, 120Hz, HDR10+, Dolby Vision",
+      "size": "6.78 inches (~91.8% screen-to-body ratio)",
+      "resolution": "1264 x 2780 pixels (~450 ppi)",
+      "refreshRate": "1-120Hz Adaptive LTPO",
+      "brightness": "6000 nits (local peak), 1600 nits (HBM)",
+      "protection": "Corning Gorilla Glass Victus 2"
+    },
+    "performance": {
+      "chipset": "Qualcomm Snapdragon 7+ Gen 3 (4 nm)",
+      "cpu": "Octa-core (1x2.8 GHz Cortex-X4 & 4x2.6 GHz Cortex-A720 & 3x1.9 GHz Cortex-A520)",
+      "gpu": "Adreno 732"
+    },
+    "memory": {
+      "ram": "8GB / 12GB LPDDR5X",
+      "storage": "256GB / 512GB UFS 4.0",
+      "cardSupport": "No"
+    },
+    "camera": {
+      "rear": "50 MP, f/1.9 (wide), 1/1.95\", PDAF, OIS (Sony LYT-600) + 8 MP (ultrawide, 112°)",
+      "front": "32 MP, f/2.5 (wide), 4K video",
+      "features": "Dual-LED flash, HDR, Pro Mode, Street Photography mode",
+      "video": "4K@30/60fps, 1080p@30/60/120fps, gyro-EIS"
+    },
+    "battery": {
+      "capacity": "5500 mAh Massive Battery",
+      "charging": "120W SUPERVOOC, 50% in 10 min",
+      "wirelessCharging": "No",
+      "reverseCharging": "No"
+    },
+    "network": {
+      "technology": "GSM / HSPA / LTE / 5G",
+      "fiveG": true,
+      "sim": "Dual SIM (Nano-SIM, dual stand-by)",
+      "wifi": "Wi-Fi 6 dual-band",
+      "bluetooth": "5.4, A2DP, LE, aptX HD, LHDC",
+      "nfc": "Yes (360°)",
+      "gps": "GPS, GLONASS, BDS, GALILEO, QZSS, NavIC"
+    },
+    "body": {
+      "dimensions": "162 x 75.1 x 8.65 mm",
+      "weight": "191 grams",
+      "build": "Glass front (Gorilla Glass Victus 2), nano-mirror rear finish, IP65 dust/water splash resistant",
+      "colors": "Fluid Silver, Razor Green"
+    },
+    "sound": {
+      "speaker": "Stereo speakers with Hi-Res Audio certification",
+      "headphoneJack": "No",
+      "audioFeatures": "O-Reality Audio, Spatial Audio"
+    },
+    "connectivity": {
+      "usb": "USB Type-C 2.0",
+      "wifi": "Wi-Fi 6",
+      "bluetooth": "5.4",
+      "nfc": "Yes"
+    },
+    "security": {
+      "fingerprint": "Under-display optical fingerprint scanner",
+      "faceUnlock": "Fast Face Unlock"
+    },
+    "software": {
+      "os": "Android 14 (Upgradable to Android 15)",
+      "ui": "Realme UI 5.0 (3 years OS, 4 years security)"
+    },
+    "gaming": {
+      "pubgFps": "90 FPS Supported (Super Smooth)",
+      "freeFireFps": "120 FPS",
+      "genshinImpact": "58 FPS (Very High)",
+      "heating": "39.8°C (9-layer Iceberg vapor chamber)",
+      "stability": "95.5%",
+      "bypassCharging": "Not supported"
+    },
+    "benchmarks": {
+      "antutu": "1,450,000",
+      "geekbenchSingle": "1,850",
+      "geekbenchMulti": "4,950"
+    },
+    "youtubeVideoId": "pB2M9zL92t4",
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=1200&q=80",
+        "caption": "Realme GT 6T reflective dual-tone nano finish",
+        "category": "back"
+      }
+    ],
+    "pros": [
+      "Industry-leading 6000 nits peak LTPO AMOLED display with Gorilla Glass Victus 2",
+      "Cortex-X4 powered Snapdragon 7+ Gen 3 delivers near-flagship benchmark power",
+      "Huge 5500 mAh battery combined with blazing 120W charging",
+      "High thermal stability thanks to large 10,014mm² dual vapor cooling chamber"
+    ],
+    "cons": [
+      "Mirror finish back collects fingerprint smudges easily",
+      "Secondary 8MP ultrawide is modest compared to the main sensor",
+      "No 3.5mm headphone jack"
+    ],
+    "review": {
+      "verdict": "Realme GT 6T is a raw horsepower champion with the brightest display in this class and an oversized 5500 mAh battery.",
+      "design": "Munshi's take: The dual-texture reflective panel looks high-tech, though using the included case is advised.",
+      "display": "The 6000 nits local peak brightness is astonishing—even under Middle Eastern midday sunlight it remains crystal clear.",
+      "performance": "The Snapdragon 7+ Gen 3 behaves almost like an 8 Gen 2, tearing through video editing and gaming.",
+      "gaming": "Constant 90 FPS in PUBG without any micro-stutters.",
+      "camera": "Sony LYT-600 with OIS takes reliable point-and-shoot photos with fast shutter response.",
+      "battery": "The 5500 mAh cell consistently provided 8+ hours screen on time.",
+      "software": "Realme UI 5.0 is fluid with high customization.",
+      "overall": "Top choice for users who want maximum raw processing power, display brightness, and battery life."
+    },
+    "faqs": [
+      {
+        "question": "What is the peak display brightness of Realme GT 6T?",
+        "answer": "It reaches up to 6000 nits peak brightness for HDR highlights and around 1600 nits in high brightness mode (HBM)."
+      },
+      {
+        "question": "How long does the 5500 mAh battery last?",
+        "answer": "Under normal daily usage it delivers 1.5 to 2 days, and over 8 hours of continuous screen-on time in testing."
+      }
+    ],
+    "relatedPhoneSlugs": ["infinix-gt-30", "redmi-note-13-pro-plus", "poco-x6-pro"]
+  },
+  {
+    "id": "poco-x6-pro",
+    "brand": "Poco",
+    "name": "Poco X6 Pro 5G",
+    "slug": "poco-x6-pro",
+    "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?auto=format&fit=crop&w=800&q=80",
+    "badge": "Value Speed King",
+    "releaseDate": "January 2024",
+    "isPopular": true,
+    "isFeatured": false,
+    "price": {
+      "saudi": "SAR 1,099",
+      "bangladesh": "৳ 32,999",
+      "globalUSD": "$290"
+    },
+    "quickSpecs": {
+      "display": "6.67\" 1.5K 120Hz Flow AMOLED",
+      "processor": "Dimensity 8300 Ultra (4nm)",
+      "ram": "8GB / 12GB",
+      "storage": "256GB / 512GB",
+      "battery": "5000 mAh",
+      "charging": "67W Turbo Charge",
+      "camera": "64MP OIS Triple Cam",
+      "os": "Xiaomi HyperOS, Android 14"
+    },
+    "display": {
+      "type": "CrystalRes 1.5K Flow AMOLED, 68B colors, 120Hz, Dolby Vision, HDR10+",
+      "size": "6.67 inches (~90.1% screen-to-body ratio)",
+      "resolution": "1220 x 2712 pixels (~446 ppi)",
+      "refreshRate": "120Hz",
+      "brightness": "1800 nits (peak)",
+      "protection": "Corning Gorilla Glass 5"
+    },
+    "performance": {
+      "chipset": "MediaTek Dimensity 8300 Ultra (4 nm)",
+      "cpu": "Octa-core (1x3.35 GHz Cortex-A715 & 3x3.2 GHz Cortex-A715 & 4x2.2 GHz Cortex-A510)",
+      "gpu": "Mali-G615-MC6"
+    },
+    "memory": {
+      "ram": "8GB / 12GB LPDDR5X",
+      "storage": "256GB / 512GB UFS 4.0",
+      "cardSupport": "No"
+    },
+    "camera": {
+      "rear": "64 MP, f/1.7 (wide), 1/2.0\", 0.7µm, PDAF, OIS + 8 MP (ultrawide) + 2 MP (macro)",
+      "front": "16 MP, f/2.4 (wide)",
+      "features": "LED flash, HDR, Panorama, Motion Tracking Focus",
+      "video": "4K@24/30fps, 1080p@30/60fps, gyro-EIS"
+    },
+    "battery": {
+      "capacity": "5000 mAh",
+      "charging": "67W wired, 100% in 45 min",
+      "wirelessCharging": "No",
+      "reverseCharging": "No"
+    },
+    "network": {
+      "technology": "GSM / HSPA / LTE / 5G",
+      "fiveG": true,
+      "sim": "Dual SIM (Nano-SIM, dual stand-by)",
+      "wifi": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax)",
+      "bluetooth": "5.4, A2DP, LE",
+      "nfc": "Yes",
+      "gps": "GPS, GLONASS, BDS, GALILEO, QZSS"
+    },
+    "body": {
+      "dimensions": "160.5 x 74.3 x 8.25 mm",
+      "weight": "186 grams",
+      "build": "Glass front (Gorilla Glass 5), plastic or vegan leather rear, IP54 splash resistant",
+      "colors": "Poco Yellow, Black, Grey"
+    },
+    "sound": {
+      "speaker": "Dual stereo speakers with Dolby Atmos",
+      "headphoneJack": "No",
+      "audioFeatures": "Hi-Res Audio certification"
+    },
+    "connectivity": {
+      "usb": "USB Type-C 2.0, OTG",
+      "wifi": "Wi-Fi 6",
+      "bluetooth": "5.4",
+      "nfc": "Yes"
+    },
+    "security": {
+      "fingerprint": "Optical Under-display",
+      "faceUnlock": "AI Face Unlock"
+    },
+    "software": {
+      "os": "Android 14 (Upgradable to Android 15)",
+      "ui": "Xiaomi HyperOS for POCO"
+    },
+    "gaming": {
+      "pubgFps": "90 FPS Supported",
+      "freeFireFps": "120 FPS",
+      "genshinImpact": "54 FPS (High)",
+      "heating": "42.5°C under sustained load",
+      "stability": "91.8%",
+      "bypassCharging": "No"
+    },
+    "benchmarks": {
+      "antutu": "1,390,000",
+      "geekbenchSingle": "1,480",
+      "geekbenchMulti": "4,690"
+    },
+    "youtubeVideoId": "Y3QZ8Rj5m9M",
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?auto=format&fit=crop&w=1200&q=80",
+        "caption": "Poco X6 Pro signature Yellow vegan leather finish",
+        "category": "back"
+      }
+    ],
+    "pros": [
+      "Dimensity 8300 Ultra paired with UFS 4.0 gives extreme speed for the money",
+      "Crisp 1.5K 120Hz Flow AMOLED display with narrow bezels",
+      "Fast 67W charging with charger included in the box",
+      "Lightweight ergonomic chassis at only 186 grams"
+    ],
+    "cons": [
+      "Camera performance in low-light is strictly average",
+      "Plastic frame and IP54 splash rating only",
+      "No 3.5mm jack or expandable storage"
+    ],
+    "review": {
+      "verdict": "A benchmarking monster on a budget. If FPS per dollar is your main metric, this is one of the closest rivals to Infinix GT 30.",
+      "design": "Munshi's take: The iconic yellow leather back is striking and grippy.",
+      "display": "Bright and sharp 1.5K screen makes gaming visuals pop.",
+      "performance": "UFS 4.0 storage speeds make loading heavy games feel nearly instantaneous.",
+      "gaming": "Solid 90 FPS in PUBG; handles heavy titles with ease.",
+      "camera": "Main camera is adequate for casual social sharing, but struggles with dynamic range.",
+      "battery": "Consistent 6.5 - 7 hours screen-on time with rapid 67W charging.",
+      "software": "HyperOS is speedy, though pre-installed app recommendations should be turned off.",
+      "overall": "An intense gaming competitor in the sub-$300 segment."
+    },
+    "faqs": [
+      {
+        "question": "Can Poco X6 Pro run PUBG at 90 FPS?",
+        "answer": "Yes, it supports 90 FPS gameplay out of the box on Smooth graphics mode."
+      },
+      {
+        "question": "Does it have expandable storage via SD card?",
+        "answer": "No, there is no microSD card slot, but internal storage starts at a generous 256GB."
+      }
+    ],
+    "relatedPhoneSlugs": ["infinix-gt-30", "realme-gt-6t", "redmi-note-13-pro-plus"]
+  }
+]

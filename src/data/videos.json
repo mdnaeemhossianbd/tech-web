@@ -1,0 +1,79 @@
+[
+  {
+    "id": "vid-infinix-gt-30-review",
+    "youtubeId": "8iU8LPEa4o0",
+    "title": "Infinix GT 30 Full Review — 90 FPS Gaming, Heating Test & Battery Drain!",
+    "type": "Review",
+    "thumbnail": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80",
+    "duration": "16:42",
+    "views": "184K views",
+    "uploadDate": "1 week ago",
+    "featured": true,
+    "linkedPhoneSlug": "infinix-gt-30",
+    "description": "Welcome back to Tech With Munshi! Today we test the brand new Infinix GT 30. Watch our real FPS meter test, thermal camera heating analysis, and full camera samples."
+  },
+  {
+    "id": "vid-gt30-gaming-test",
+    "youtubeId": "8iU8LPEa4o0",
+    "title": "Infinix GT 30 Extreme Gaming Test (PUBG 90 FPS + Free Fire 120 FPS)",
+    "type": "Gaming Test",
+    "thumbnail": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=800&q=80",
+    "duration": "14:18",
+    "views": "92K views",
+    "uploadDate": "5 days ago",
+    "featured": false,
+    "linkedPhoneSlug": "infinix-gt-30",
+    "description": "Continuous 2-hour gaming test on Infinix GT 30! We verify Dimensity 8200 Ultimate stability, bypass charging functionality, and frame drops."
+  },
+  {
+    "id": "vid-gt30-vs-redmi-note13",
+    "youtubeId": "tP736k3z-G8",
+    "title": "Infinix GT 30 vs Redmi Note 13 Pro+ — Which Should You Buy?",
+    "type": "Comparison",
+    "thumbnail": "https://images.unsplash.com/photo-1567581935884-3349723552ca?auto=format&fit=crop&w=800&q=80",
+    "duration": "18:25",
+    "views": "210K views",
+    "uploadDate": "2 weeks ago",
+    "featured": true,
+    "linkedPhoneSlug": "infinix-gt-30",
+    "description": "Full side-by-side comparison between Infinix GT 30 (Gaming King) and Redmi Note 13 Pro+ (200MP Curved AMOLED King). Real camera blind tests and speed tests."
+  },
+  {
+    "id": "vid-samsung-a55-test",
+    "youtubeId": "YhR_hXwX9uU",
+    "title": "Samsung Galaxy A55 5G Long-Term Review — After 6 Months of Use",
+    "type": "Review",
+    "thumbnail": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=800&q=80",
+    "duration": "15:04",
+    "views": "315K views",
+    "uploadDate": "1 month ago",
+    "featured": false,
+    "linkedPhoneSlug": "samsung-galaxy-a55",
+    "description": "Is Samsung's Galaxy A55 still the best mid-ranger after long-term updates? How is battery health, software lag, and daily camera reliability?"
+  },
+  {
+    "id": "vid-realme-gt-6t-unboxing",
+    "youtubeId": "pB2M9zL92t4",
+    "title": "Realme GT 6T 5G Unboxing & First Impressions — 6000 Nits Brightness?!",
+    "type": "Unboxing",
+    "thumbnail": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=800&q=80",
+    "duration": "12:10",
+    "views": "142K views",
+    "uploadDate": "3 weeks ago",
+    "featured": false,
+    "linkedPhoneSlug": "realme-gt-6t",
+    "description": "First look at the Realme GT 6T with Snapdragon 7+ Gen 3 and 120W charging. Testing display brightness under blazing midday sunlight."
+  },
+  {
+    "id": "vid-smartphone-buying-guide",
+    "youtubeId": "dQw4w9WgXcQ",
+    "title": "Ultimate Smartphone Buying Guide 2025: Don't Waste Your Money!",
+    "type": "Guide",
+    "thumbnail": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80",
+    "duration": "22:40",
+    "views": "450K views",
+    "uploadDate": "2 months ago",
+    "featured": true,
+    "description": "Everything you need to know before buying your next phone: Processor architectures, RAM myths, Camera megapixel traps, and Battery lifespan rules."
+  }
+]

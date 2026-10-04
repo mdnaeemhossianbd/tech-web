@@ -1,0 +1,90 @@
+[
+  {
+    "id": "rev-infinix-gt-30",
+    "slug": "infinix-gt-30-full-review",
+    "title": "Infinix GT 30 Full Review: Budget Gaming King or Gimmick?",
+    "category": "Smartphone Reviews",
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=1200&q=80",
+    "shortDescription": "We spent 3 weeks testing the Infinix GT 30 in our studio. From 90 FPS PUBG gaming and bypass charging to real-world battery drain and daily camera performance, here is our full verdict.",
+    "author": "MD Naeem Hossin",
+    "date": "March 2025",
+    "readTime": "6 min read",
+    "score": 9.1,
+    "youtubeVideoId": "8iU8LPEa4o0",
+    "linkedPhoneSlug": "infinix-gt-30",
+    "content": [
+      "Infinix continues to double down on aggressive gaming aesthetics and value-for-money hardware with the GT 30. Following the acclaim of its predecessor, this iteration targets mobile gamers in emerging markets like Bangladesh and the Middle East who demand high frame rates without breaking $300.",
+      "The standout feature during our daily studio testing was the 144Hz AMOLED display paired with MediaTek Dimensity 8200 Ultimate. Unlike phones that throttle after 15 minutes of intensive play, the vapor chamber cooling and physical bypass charging feature allowed us to play for 3 continuous hours without battery-induced overheating.",
+      "While the lack of an ultrawide camera is a minor concession, the 108MP OIS main sensor performs reliably in daylight. Combined with the 3.5mm headphone jack and clean XOS 15 GT software, this is easily one of the best budget gaming packages of the year."
+    ]
+  },
+  {
+    "id": "rev-galaxy-a55",
+    "slug": "samsung-galaxy-a55-review",
+    "title": "Samsung Galaxy A55 Review: 4 Years of OS Updates & Flagship Build",
+    "category": "Smartphone Reviews",
+    "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=1200&q=80",
+    "shortDescription": "Metal frame, IP67 protection, and unmatched software longevity make the Galaxy A55 Samsung's safest mid-range recommendation for general users.",
+    "author": "MD Naeem Hossin",
+    "date": "February 2025",
+    "readTime": "5 min read",
+    "score": 8.8,
+    "youtubeVideoId": "YhR_hXwX9uU",
+    "linkedPhoneSlug": "samsung-galaxy-a55",
+    "content": [
+      "If you care more about build quality, natural camera colors, and long-term security than raw gaming benchmarks, the Galaxy A55 is hard to beat.",
+      "The aluminum chassis and Gorilla Glass Victus+ feel almost identical to the flagship Galaxy S24 series in hand. The Exynos 1480 with AMD graphics runs smooth and cool.",
+      "Charging at 25W remains slow by today's standards, but the 4 years of OS upgrades and 5 years of patches ensure your investment lasts."
+    ]
+  },
+  {
+    "id": "rev-macbook-air-m3",
+    "slug": "macbook-air-m3-creator-review",
+    "title": "M3 MacBook Air for Tech Creators & Video Editors: Honest Take",
+    "category": "Laptops",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1200&q=80",
+    "shortDescription": "Can a fanless laptop handle 4K YouTube video editing, thumbnail design, and multi-track audio? We tested our entire channel workflow on the M3 Air.",
+    "author": "MD Naeem Hossin",
+    "date": "January 2025",
+    "readTime": "7 min read",
+    "score": 9.4,
+    "youtubeVideoId": "dQw4w9WgXcQ",
+    "content": [
+      "As a tech creator running YouTube productions, carrying heavy workstation laptops is exhausting. The M3 MacBook Air promised whisper-quiet fanless operation with dual external display support.",
+      "Editing 10-bit 4K footage in Final Cut Pro and DaVinci Resolve is remarkably smooth for 85% of timeline tasks. Only during heavy 30-minute render exports did we see mild thermal throttling.",
+      "The 18-hour real world battery life makes this the premier travel machine for content creators."
+    ]
+  },
+  {
+    "id": "rev-anc-earbuds-roundup",
+    "slug": "best-anc-earbuds-under-50-dollars",
+    "title": "Top 5 ANC Wireless Earbuds Under $50 (Saudi & BD Market Tested)",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=1200&q=80",
+    "shortDescription": "Real ANC on a budget is no longer a myth. We tested mic noise reduction on busy Riyadh and Dhaka streets to see which earbuds actually perform.",
+    "author": "MD Naeem Hossin",
+    "date": "March 2025",
+    "readTime": "6 min read",
+    "score": 8.7,
+    "content": [
+      "Affordable TWS earbuds have evolved dramatically over the past year. Features like 45dB active noise cancellation, dual device pairing, and low-latency gaming modes are now accessible under $50.",
+      "We tested soundstage clarity, wind noise isolation during phone calls, and battery endurance across budget champions from Realme, Soundpeats, and QCY."
+    ]
+  },
+  {
+    "id": "rev-gemini-ai-workflow",
+    "slug": "how-ai-tools-revolutionize-tech-creators",
+    "title": "Top AI Tools I Use to Run Tech With Munshi in 2025",
+    "category": "AI Tools",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=1200&q=80",
+    "shortDescription": "From YouTube script research and subtitle translation to benchmark data organization, here are the real AI tools powering our content workflow.",
+    "author": "MD Naeem Hossin",
+    "date": "January 2025",
+    "readTime": "5 min read",
+    "score": 9.5,
+    "content": [
+      "Artificial intelligence isn't replacing tech creators—it's supercharging our ability to research specifications, double check factual accuracy across global retailer databases, and localize content for international audiences.",
+      "In this breakdown, I demonstrate how LLMs assist in comparative analysis, parsing thousand-page FCC filings, and translating guides between English, Bangla, and Arabic."
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+{
+  "brand": "Tech With Munshi",
+  "tagline": "Tecnología Sin Complicaciones.",
+  "subheading": "Análisis Móviles • Guías Tecnológicas • Comparativas • Última Tecnología",
+  "nav": {
+    "home": "Inicio",
+    "mobiles": "Móviles",
+    "reviews": "Análisis",
+    "compare": "Comparar",
+    "videos": "Vídeos",
+    "guides": "Guías",
+    "about": "Acerca de",
+    "contact": "Contacto",
+    "search": "Buscar móviles, análisis, guías...",
+    "themeLight": "Modo Claro",
+    "themeDark": "Modo Oscuro"
+  },
+  "hero": {
+    "headline": "Tecnología Sin Complicaciones.",
+    "subheading": "Análisis profundos de móviles, pruebas reales de rendimiento, benchmarks y comparativas por MD Naeem Hossin.",
+    "exploreMobiles": "Explorar Móviles",
+    "watchYoutube": "Canal de YouTube",
+    "quickStats": {
+      "devicesTested": "+50 Dispositivos Probados",
+      "community": "+100K Entusiastas",
+      "noBias": "100% Veredictos Honestos"
+    }
+  },
+  "featured": {
+    "badge": "Producto y Análisis Destacado",
+    "explorePhone": "Explorar Especificaciones",
+    "watchVideo": "Ver Análisis en Vídeo",
+    "priceSaudi": "Precio en Arabia Saudita",
+    "priceBD": "Precio en Bangladés",
+    "disclaimer": "El precio puede variar según el distribuidor, versión de almacenamiento y ofertas."
+  },
+  "mobiles": {
+    "title": "Últimos Teléfonos Móviles",
+    "subtitle": "Explora especificaciones verificadas, muestras de cámara, puntuaciones benchmark y análisis en vídeo.",
+    "filters": "Filtrar Teléfonos",
+    "allBrands": "Todas las Marcas",
+    "brand": "Marca",
+    "price": "Rango de Precio",
+    "ram": "Memoria RAM",
+    "storage": "Almacenamiento",
+    "refreshRate": "Tasa de Refresco",
+    "fiveGOnly": "Solo Red 5G",
+    "battery": "Capacidad de Batería",
+    "sortBy": "Ordenar Por",
+    "sortLatest": "Más Recientes",
+    "sortPriceLow": "Precio: Menor a Mayor",
+    "sortPriceHigh": "Precio: Mayor a Menor",
+    "sortPopular": "Más Populares",
+    "viewDetails": "Ver Detalles",
+    "compare": "Comparar",
+    "noResults": "No se encontraron teléfonos con los filtros seleccionados."
+  },
+  "details": {
+    "quickSpecs": "Especificaciones Rápidas",
+    "completeSpecs": "Especificaciones Completas",
+    "myReview": "Análisis Detallado por MD Naeem Hossin",
+    "gamingPerformance": "Rendimiento en Juegos y Temperatura",
+    "pros": "Razones Para Comprar (Pros)",
+    "cons": "Puntos a Considerar (Contras)",
+    "gallery": "Galería de Fotos y Detalles",
+    "watchReview": "Ver Análisis Completo en Vídeo",
+    "subscribe": "Suscribirse a Tech With Munshi",
+    "priceSection": "Precios Oficiales y de Mercado",
+    "faqTitle": "Preguntas Frecuentes (FAQ)",
+    "relatedTitle": "También Te Podría Interesar",
+    "relatedVideos": "Vídeos Relacionados de Tech With Munshi",
+    "share": "Compartir Este Análisis"
+  },
+  "compare": {
+    "title": "Comparativa de Móviles",
+    "subtitle": "Selecciona hasta 3 móviles para comparar sus diferencias técnicas sin favoritismos.",
+    "selectPhone": "Seleccionar Móvil",
+    "highlightDiff": "Destacar Diferencias",
+    "remove": "Quitar",
+    "addPhone": "Añadir Otro Teléfono"
+  },
+  "reviews": {
+    "title": "Análisis Tecnológicos Exhaustivos",
+    "subtitle": "Pruebas detalladas de smartphones, portátiles, audio y gadgets de última generación.",
+    "readReview": "Leer Análisis Completo",
+    "watchVideo": "Ver Vídeo"
+  },
+  "videos": {
+    "title": "Tech With Munshi en YouTube",
+    "subtitle": "Unboxings, pruebas extremas de juegos, comparativas de cámara y guías de compra.",
+    "subscribeBtn": "Suscribirse en YouTube",
+    "allVideos": "Todos los Vídeos"
+  },
+  "guides": {
+    "title": "Guías Tecnológicas y Consejos",
+    "subtitle": "Haciendo la tecnología fácil de entender para que compres inteligentemente."
+  },
+  "common": {
+    "searchPlaceholder": "Buscar por nombre de móvil, marca o procesador...",
+    "close": "Cerrar",
+    "readMore": "Leer Más",
+    "viewAll": "Ver Todos",
+    "copied": "¡Enlace copiado al portapapeles!",
+    "aiAssistant": "Asistente IA Tech With Munshi",
+    "aiAssistantPrompt": "¡Pregúntame sobre pantallas, rendimiento en juegos o cámaras!"
+  }
+}

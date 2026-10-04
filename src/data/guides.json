@@ -1,0 +1,98 @@
+[
+  {
+    "id": "guide-how-to-choose-smartphone",
+    "slug": "how-to-choose-a-smartphone-in-2025",
+    "title": "How to Choose the Perfect Smartphone in 2025: A Practical Buyer's Guide",
+    "featuredImage": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "8 min read",
+    "date": "March 2025",
+    "summary": "Confused between 200MP cameras, 144Hz displays, and obscure processor model numbers? Here is Munshi's straightforward framework to pick the best phone for your budget without overpaying.",
+    "sections": [
+      {
+        "heading": "1. Identify Your Core Priority First",
+        "content": "Before looking at spec sheets, decide what matters most: Are you a competitive mobile gamer who needs 90-120 FPS and bypass charging (like the Infinix GT 30)? Are you a content creator who prioritizes 4K 60fps OIS video? Or do you want a durable phone with 4-5 years of guaranteed Android updates (like Samsung Galaxy A55)?"
+      },
+      {
+        "heading": "2. The Processor (SoC) Defines Everything",
+        "content": "A high-megapixel camera cannot save a weak processor. Look at fabrication node sizes (4nm vs 6nm) and Cortex core architectures (Cortex-X4, A720, A715). In the sub-$300 to $400 bracket, chips like Dimensity 8200 Ultimate, Dimensity 8300 Ultra, and Snapdragon 7+ Gen 3 provide incredible flagship-tier value."
+      },
+      {
+        "heading": "3. Display Quality Over Plain Resolution",
+        "content": "An AMOLED panel with 120Hz/144Hz refresh rate, 1000+ nits High Brightness Mode (HBM), and 1920Hz+ PWM dimming will feel vastly superior to an LCD with washed-out contrast and low refresh rate."
+      },
+      {
+        "heading": "4. Battery Size vs Charging Speed",
+        "content": "A 5000 mAh or 5500 mAh battery combined with an efficient 4nm processor easily provides full-day endurance. Fast charging of 45W to 120W transforms your daily routine, letting you top up in 20-40 minutes."
+      }
+    ],
+    "relatedProductSlugs": ["infinix-gt-30", "samsung-galaxy-a55", "realme-gt-6t"],
+    "relatedVideoIds": ["vid-smartphone-buying-guide", "vid-infinix-gt-30-review"]
+  },
+  {
+    "id": "guide-amoled-vs-lcd",
+    "slug": "amoled-vs-lcd-display-guide",
+    "title": "AMOLED vs LCD: Which Screen Technology Should You Buy?",
+    "featuredImage": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "6 min read",
+    "date": "February 2025",
+    "summary": "True inky blacks vs backlight bleed, battery consumption in dark mode, PWM eye strain, and sunlight readability: what really matters between AMOLED and LCD panels.",
+    "sections": [
+      {
+        "heading": "How AMOLED and LCD Actually Differ",
+        "content": "In LCD screens, a constant LED backlight illuminates all pixels from behind. When displaying black, the liquid crystals attempt to block the light, but some always bleeds through, resulting in dark grey rather than pitch black. In AMOLED (Active Matrix Organic Light Emitting Diode), every single sub-pixel generates its own light and turns off completely when displaying black."
+      },
+      {
+        "heading": "Battery Savings in Dark Mode",
+        "content": "Because black pixels consume zero power on AMOLED panels, using pure dark mode saves between 15% to 30% battery life during daily use. On LCD screens, dark mode uses the exact same battery as light mode because the backlight remains fully active."
+      },
+      {
+        "heading": "PWM Dimming and Eye Health",
+        "content": "AMOLED displays modulate brightness using Pulse Width Modulation (flicker). Low PWM frequencies (under 480Hz) can cause eye fatigue and headaches for sensitive users. Always look for phones with high-frequency PWM (like 2160Hz on the Infinix GT 30) or DC dimming."
+      }
+    ],
+    "relatedProductSlugs": ["infinix-gt-30", "redmi-note-13-pro-plus"],
+    "relatedVideoIds": ["vid-infinix-gt-30-review"]
+  },
+  {
+    "id": "guide-snapdragon-vs-mediatek",
+    "slug": "snapdragon-vs-mediatek-in-2025",
+    "title": "Snapdragon vs MediaTek: The Modern Reality in 2025",
+    "featuredImage": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "7 min read",
+    "date": "January 2025",
+    "summary": "Forget the outdated myths from 2018. MediaTek Dimensity series now frequently outperforms Snapdragon in sustained thermal efficiency and price-to-performance ratio.",
+    "sections": [
+      {
+        "heading": "The Evolution of MediaTek Dimensity",
+        "content": "Years ago, budget MediaTek chips suffered from excessive heat and poor GPU drivers. Ever since the launch of the Dimensity lineup built on TSMC's advanced 4nm and 3nm nodes, MediaTek has delivered exceptional battery efficiency and rock-solid frame rates."
+      },
+      {
+        "heading": "Emulation and Custom ROMs: Where Snapdragon Still Wins",
+        "content": "Snapdragon chips with Adreno GPUs still enjoy wider developer support for custom ROMs, GCam ports, and emulator turnip drivers. However, for 98% of regular users running Google Play games like PUBG, Free Fire, and Genshin Impact, Dimensity chips like 8200 Ultimate and 8300 Ultra offer better FPS per dollar."
+      }
+    ],
+    "relatedProductSlugs": ["infinix-gt-30", "realme-gt-6t", "poco-x6-pro"],
+    "relatedVideoIds": ["vid-gt30-vs-redmi-note13"]
+  },
+  {
+    "id": "guide-ram-myth",
+    "slug": "how-much-ram-do-you-really-need",
+    "title": "How Much RAM Do You Really Need in a Phone? (And Virtual RAM Explained)",
+    "featuredImage": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "5 min read",
+    "date": "January 2025",
+    "summary": "Is 8GB enough, or do you need 12GB or 16GB? What is 'Virtual RAM / Extended RAM', and does it actually speed up your phone or slow down your storage?",
+    "sections": [
+      {
+        "heading": "The Realities of Android Memory Management",
+        "content": "For smooth multitasking on Android 14/15, 8GB of physical LPDDR5X RAM is the sweet spot for everyday users. If you do heavy gaming with screen recording, live streaming, or 4K video editing, 12GB (like on the Infinix GT 30) ensures background apps do not get killed by the OS."
+      },
+      {
+        "heading": "The Truth About 'Virtual RAM'",
+        "content": "Brands often market '24GB RAM (12GB + 12GB Extended)'. Virtual RAM allocates a portion of your internal flash storage as swap memory. While flash memory prevents apps from completely crashing, it is 10 to 20 times slower than physical RAM. Never choose a phone based on virtual RAM claims—always check the physical hardware RAM."
+      }
+    ],
+    "relatedProductSlugs": ["infinix-gt-30", "poco-x6-pro"],
+    "relatedVideoIds": ["vid-gt30-gaming-test"]
+  }
+]

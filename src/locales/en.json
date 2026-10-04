@@ -1,0 +1,107 @@
+{
+  "brand": "Tech With Munshi",
+  "tagline": "Technology Made Simple.",
+  "subheading": "Mobile Reviews • Tech Guides • Comparisons • Latest Tech",
+  "nav": {
+    "home": "Home",
+    "mobiles": "Mobiles",
+    "reviews": "Reviews",
+    "compare": "Compare",
+    "videos": "Videos",
+    "guides": "Guides",
+    "about": "About",
+    "contact": "Contact",
+    "search": "Search phones, reviews, guides...",
+    "themeLight": "Light Mode",
+    "themeDark": "Dark Mode"
+  },
+  "hero": {
+    "headline": "Technology Made Simple.",
+    "subheading": "In-depth Mobile Reviews, Honest Testing, Real Benchmarks, and Side-by-Side Comparisons by MD Naeem Hossin.",
+    "exploreMobiles": "Explore Mobiles",
+    "watchYoutube": "Watch YouTube Channel",
+    "quickStats": {
+      "devicesTested": "50+ Devices Tested",
+      "community": "100K+ Tech Enthusiasts",
+      "noBias": "100% Unbiased Verdicts"
+    }
+  },
+  "featured": {
+    "badge": "Featured Product & Review",
+    "explorePhone": "Explore Full Specifications",
+    "watchVideo": "Watch Full Video Review",
+    "priceSaudi": "Saudi Arabia Price",
+    "priceBD": "Bangladesh Price",
+    "disclaimer": "Price may vary depending on retailer, storage variant, promotions, and availability."
+  },
+  "mobiles": {
+    "title": "Latest Mobile Phones",
+    "subtitle": "Browse verified specifications, camera samples, benchmark scores, and video reviews.",
+    "filters": "Filter Phones",
+    "allBrands": "All Brands",
+    "brand": "Brand",
+    "price": "Price Range",
+    "ram": "RAM",
+    "storage": "Storage",
+    "refreshRate": "Refresh Rate",
+    "fiveGOnly": "5G Network Only",
+    "battery": "Battery Capacity",
+    "sortBy": "Sort By",
+    "sortLatest": "Latest Release",
+    "sortPriceLow": "Price: Low to High",
+    "sortPriceHigh": "Price: High to Low",
+    "sortPopular": "Most Popular",
+    "viewDetails": "View Details",
+    "compare": "Compare",
+    "noResults": "No smartphones found matching your filter criteria."
+  },
+  "details": {
+    "quickSpecs": "Quick Specifications",
+    "completeSpecs": "Complete Specifications",
+    "myReview": "MD Naeem Hossin's In-Depth Review",
+    "gamingPerformance": "Gaming & Thermal Benchmark",
+    "pros": "Why You Should Buy (Pros)",
+    "cons": "Things to Keep in Mind (Cons)",
+    "gallery": "Photo Gallery & Build Details",
+    "watchReview": "Watch My Full Video Review",
+    "subscribe": "Subscribe to Tech With Munshi",
+    "priceSection": "Official & Market Pricing",
+    "faqTitle": "Frequently Asked Questions",
+    "relatedTitle": "You May Also Like",
+    "relatedVideos": "Related Tech With Munshi Videos",
+    "share": "Share This Review"
+  },
+  "compare": {
+    "title": "Compare Mobile Phones",
+    "subtitle": "Select up to 3 phones to view honest side-by-side differences. No arbitrary winners—just clean facts.",
+    "selectPhone": "Select Phone",
+    "highlightDiff": "Highlight Differences",
+    "remove": "Remove",
+    "addPhone": "Add Another Phone"
+  },
+  "reviews": {
+    "title": "In-Depth Tech Reviews",
+    "subtitle": "Comprehensive tests on phones, laptops, audio gear, and cutting-edge tech gadgets.",
+    "readReview": "Read Full Review",
+    "watchVideo": "Watch Video"
+  },
+  "videos": {
+    "title": "Tech With Munshi on YouTube",
+    "subtitle": "Unboxings, extreme gaming tests, camera shootouts, and buying guides.",
+    "subscribeBtn": "Subscribe on YouTube",
+    "allVideos": "All Videos"
+  },
+  "guides": {
+    "title": "Tech Guides & Explanations",
+    "subtitle": "Simplifying complex technology so you can make informed buying decisions."
+  },
+  "common": {
+    "searchPlaceholder": "Search by phone name, brand, chip, or topic...",
+    "close": "Close",
+    "readMore": "Read More",
+    "viewAll": "View All",
+    "copied": "Link copied to clipboard!",
+    "aiAssistant": "Tech With Munshi AI",
+    "aiAssistantPrompt": "Ask me anything about phone specs, display comparisons, or gaming performance!"
+  }
+}

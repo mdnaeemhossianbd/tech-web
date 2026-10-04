@@ -1,0 +1,6 @@
+{
+  "name": "Tech With Munshi",
+  "description": "Technology Made Simple. Official platform for smartphone reviews, detailed specifications, phone comparisons, tech guides, and YouTube videos by MD Naeem Hossin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
